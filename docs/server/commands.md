@@ -35,3 +35,9 @@
 | --- | --- | --- |
 | /prefix | | Set prefix shown on your chat messages. Half-width alphanumeric characters cannot be used. |
 | /suffix | | Set suffix shown on your chat messages. Half-width alphanumeric characters cannot be used. |
+
+
+
+
+
+Nigga chicken
